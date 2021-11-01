@@ -1,0 +1,84 @@
+/* userdashboard  */
+
+
+
+.search-icon {
+	border-radius: 25px;
+	background-color: red;
+	color: white;
+}
+
+.search-bar {
+	border-radius: 25px;
+	background-color: var(--c-light-blue);
+	border: none;
+	color: white;
+}
+
+/* card section */
+.card-sec{
+	border-radius: 32px;
+	color: white;
+}
+
+.test{
+	background-color: red;
+}
+
+/* lastnav */
+
+.lastnav {
+	border-radius: 23px 23px 0px 0px;
+	color: white;
+    background-color: #72767c;
+	
+	
+}
+.btn-lnav{
+    border-radius: 20px;
+    color: white;
+    background-color: var(--c-dark-blue);
+    border: none;
+}
+
+.btn-lnav a{
+    color: white;
+    text-decoration: none;
+}
+
+.btn-lnav:hover{
+    background-color: gray;
+    color: black;
+    text-decoration: none;
+}
+
+.escape{
+    height: 57px;
+}
+
+
+
+/* utilityclasses */
+
+.font-sm{
+    font-size: 0.8rem;
+}
+
+.adjust{
+    height: 41px;
+}
+
+.img-container{
+    height: 100px;
+}
+.dd-img-container{
+    height: 136px;
+}
+
+.img-container img{
+    object-fit: contain;
+}
+
+.about ul li{
+    list-style: none;
+}
